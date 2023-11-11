@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://www.linkedin.com/in/fw09/
+Let's build something together!
+
+Linkedin: https://www.linkedin.com/in/fw09/
 <!--
 **Seggenz/Seggenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
